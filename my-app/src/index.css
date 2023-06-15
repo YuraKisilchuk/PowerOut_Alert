@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.disabled-link {
+    cursor: default;
+    pointer-events: none;
+    text-decoration: none;
+  }
